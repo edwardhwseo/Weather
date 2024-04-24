@@ -12,4 +12,5 @@
     <li>User-friendly Design</li>
   </ul>
 <h2>Preview</h2>
-<img src="https://github.com/edwardhwseo/Weather/assets/124828951/e8d5e4fb-0d5a-46f0-8f73-a81d2c6c4889" alt="Home Page Image">
+<img src="https://github.com/edwardhwseo/Weather/assets/124828951/ac8a5085-5d65-48cc-b5ac-2369ab9086bd" width="340" alt="Weather App Image">
+<img src="https://github.com/edwardhwseo/Weather/assets/124828951/5f2843b1-219f-44e3-8332-d2ab41e228ad" width="328" alt="Weather App Image">
